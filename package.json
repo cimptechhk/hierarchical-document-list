@@ -52,8 +52,8 @@
     "@sanity/mutator": "^3.78.1",
     "@sanity/ui": "^2.15.2",
     "@sanity/util": "^3.78.1",
-    "react-dnd": "^16.0.1",
-    "react-dnd-html5-backend": "^16.0.1"
+    "react-dnd": "^14.0.1",
+    "react-dnd-html5-backend": "^14.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
